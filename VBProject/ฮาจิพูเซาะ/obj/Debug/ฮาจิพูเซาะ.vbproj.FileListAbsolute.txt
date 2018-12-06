@@ -1,0 +1,14 @@
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\bin\Debug\ฮาจิพูเซาะ.exe.config
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\bin\Debug\ฮาจิพูเซาะ.exe
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\bin\Debug\ฮาจิพูเซาะ.pdb
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\bin\Debug\ฮาจิพูเซาะ.xml
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.vbprojAssemblyReference.cache
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.Resources.resources
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.vbproj.GenerateResource.cache
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.vbproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.exe
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.xml
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.pdb
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.FromLab1.resources
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.Test1.resources
+c:\users\user\source\repos\ฮาจิพูเซาะ\ฮาจิพูเซาะ\obj\Debug\ฮาจิพูเซาะ.Fromlab2.resources
